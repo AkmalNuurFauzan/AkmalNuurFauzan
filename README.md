@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Akmal Nuur Fauzan.<br>
+
+I am a student at University Nusa Putra, currently learning machine learning with the aim of becoming a Data Analyst.<br>
+
+If you'd like to connect with me, feel free to follow my [LinkedIn](https://www.linkedin.com/in/akmal-nuur-fauzan-533634255/)!
